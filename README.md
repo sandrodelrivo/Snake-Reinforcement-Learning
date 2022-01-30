@@ -12,3 +12,8 @@ Agent: solve the environment using self-play with an RL algorithm of your choice
 
 
 Inspect the learned behavior: does the agent learn to competently pursue food and avoid other snakes? Does the agent learn to attack, trap, or gang up against the competing snakes? Tweet us videos of the learned policies!
+
+## AC2 Implementation
+
+![Alt Text](https://media.giphy.com/media/QVe99EW0vZAjwPzmu8/giphy.gif)
+
